@@ -292,21 +292,7 @@
             "LastDonated": "7/3/22",
             "PasswordHash": "Test@143",
             "EntryDate": "9/12/22"
-        },
-        {
-            "Id": "10e043b0-ca60-4477-ac95-2512aae0d842",
-            "FullName": "মোঃ আব্দুল্যা পাটওয়ারী",
-            "MobileNo": "01812-654833",
-            "BloodGroup": "AB-",
-            "ProfilePicture": "https://raw.githubusercontent.com/arafat-pro/khedmot/main/default-profile-image.jpg",
-            "CurrentAddress": "Azma Complex, 3rd Floor, Dewanhat Moor",
-            "PoliceStation": "Doublemooring",
-            "District": "Chattogram",
-            "CanDonateBlood": "TRUE",
-            "LastDonated": "7/4/22",
-            "PasswordHash": "Test@144",
-            "EntryDate": "9/12/22"
-        },
+        },       
         {
             "Id": "39593175-c07b-41bd-b3fc-ebe47c5b1e31",
             "FullName": "আলহাজ¦ মোঃ রফিকুল আলম",
